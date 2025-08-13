@@ -16,7 +16,7 @@ The .ipynb has been tested with Python 3.11.5.
 ## Install base dependencies
 ```
 git clone https://github.com/ads303/DeepDiff-SHAP.git && cd DeepDiff-SHAP
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Setup
