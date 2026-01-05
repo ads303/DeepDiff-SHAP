@@ -1,5 +1,5 @@
 # DeepDiff-SHAP
-**Interpretable Deep Learning for Subgroup-Specific Causal Inference Using Conditional SHAP-based estimation**
+**DeepDiff-SHAP: Interpretable deep learning for subgroup-specific causal hypothesis generation using conditional SHAP**
 
 **https://psb.stanford.edu/psb-online/proceedings/psb26/sriram.pdf**
 
