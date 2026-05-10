@@ -1,0 +1,8 @@
+Gene1,Gene2,Changed
+Cytokine_E,Kinase_D,True
+Cytokine_E,Stress_H,True
+Cytokine_E,TF_A,True
+Inflammation_J,TF_B,True
+Metabolism_G,Stress_H,True
+Signal_C,TF_A,True
+Signal_C,TF_B,True
