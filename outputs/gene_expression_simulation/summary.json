@@ -1,0 +1,16 @@
+{
+  "n_per_state": 240,
+  "n_features": 12,
+  "alpha_ug": 0.005,
+  "alpha_skel": 0.3,
+  "alpha_orient": 0.001,
+  "max_set_size": 1,
+  "shap_sample_size": 160,
+  "diff_ug_edges": 8,
+  "skeleton_edges": 7,
+  "final_edges": 7,
+  "truth_changed_edges": 7,
+  "step1_truth_recovered": 7,
+  "skeleton_truth_recovered": 7,
+  "final_truth_recovered": 7
+}

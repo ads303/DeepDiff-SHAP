@@ -1,0 +1,11 @@
+parameter,value
+n_per_state,240.0
+n_features,12.0
+alpha_ug,0.005
+alpha_skel,0.3
+alpha_orient,0.001
+max_set_size,1.0
+shap_sample_size,160.0
+shap_background_size,40.0
+train_epochs,35.0
+train_lr,0.01

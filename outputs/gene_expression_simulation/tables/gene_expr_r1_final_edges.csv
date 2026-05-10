@@ -1,0 +1,8 @@
+From,To,Edge_Type,Undirected_Edge
+TF_A,Signal_C,undirected,"('Signal_C', 'TF_A')"
+TF_A,Cytokine_E,undirected,"('Cytokine_E', 'TF_A')"
+TF_B,Signal_C,undirected,"('Signal_C', 'TF_B')"
+TF_B,Inflammation_J,undirected,"('Inflammation_J', 'TF_B')"
+Kinase_D,Cytokine_E,undirected,"('Cytokine_E', 'Kinase_D')"
+Cytokine_E,Stress_H,undirected,"('Cytokine_E', 'Stress_H')"
+Metabolism_G,Stress_H,undirected,"('Metabolism_G', 'Stress_H')"

@@ -1,0 +1,15 @@
+Node,Gene,Conditioning_Set,Conditioning_Genes,P_value,Directions,Accepted
+0,TF_A,2,Signal_C,4.983171442286334e-27,Signal_C -> TF_A,False
+0,TF_A,4,Cytokine_E,1.6551937598308086e-10,Cytokine_E -> TF_A,False
+1,TF_B,2,Signal_C,1e-320,Signal_C -> TF_B,False
+1,TF_B,9,Inflammation_J,0.00017170464316884626,Inflammation_J -> TF_B,False
+2,Signal_C,0,TF_A,4.2462062701682495e-26,TF_A -> Signal_C,False
+2,Signal_C,1,TF_B,1e-320,TF_B -> Signal_C,False
+3,Kinase_D,4,Cytokine_E,1.250790842537739e-15,Cytokine_E -> Kinase_D,False
+4,Cytokine_E,0,TF_A,5.224813914850301e-10,TF_A -> Cytokine_E,False
+4,Cytokine_E,3,Kinase_D,2.520197161395329e-17,Kinase_D -> Cytokine_E,False
+4,Cytokine_E,7,Stress_H,1.0658141036401503e-14,Stress_H -> Cytokine_E,False
+6,Metabolism_G,7,Stress_H,3.5860690222483584e-09,Stress_H -> Metabolism_G,False
+7,Stress_H,4,Cytokine_E,2.4424906541753444e-15,Cytokine_E -> Stress_H,False
+7,Stress_H,6,Metabolism_G,1.7161385406491858e-09,Metabolism_G -> Stress_H,False
+9,Inflammation_J,1,TF_B,5.957101477194193e-05,TF_B -> Inflammation_J,False

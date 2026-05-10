@@ -1,0 +1,9 @@
+Node1,Node2,Gene1,Gene2
+0,2,TF_A,Signal_C
+0,4,TF_A,Cytokine_E
+1,2,TF_B,Signal_C
+1,9,TF_B,Inflammation_J
+3,4,Kinase_D,Cytokine_E
+4,7,Cytokine_E,Stress_H
+6,7,Metabolism_G,Stress_H
+6,8,Metabolism_G,Proliferation_I
